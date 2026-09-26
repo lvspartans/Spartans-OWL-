@@ -1,0 +1,7 @@
+<meta>
+    <script src="achievement_s.lua" type="server" />
+    <script src="achievement_c.lua" type="client" />
+
+    <file src="sounds/achievement.mp3" />
+    <export function="awardPlayer" type="server" />
+</meta>
